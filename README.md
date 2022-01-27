@@ -1,2 +1,2 @@
-# diplom
+# courswork
 Запуск - ```python xaar.py```
