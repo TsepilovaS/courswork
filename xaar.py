@@ -60,4 +60,4 @@ if __name__ == '__main__':
     a = DetectFace()
     a.init_image()
     a.response_img()
-    a.response_img('/home/vova/Documents/diplom/img/subject03.sleepy')
+    a.response_img('/home/sima/Documents/course/img/subject03.sleepy')
